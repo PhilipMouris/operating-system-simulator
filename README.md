@@ -1,5 +1,5 @@
 # operating-system-simulator
-A java simulation of an operating system of a smart oven including the usual operating system functionalities such as:  
+A java simulation of a multi-threaded interactive operating system of a smart oven including the usual operating system functionalities such as:  
   -Memory Management  
   -Process Management  
   -Scheduling  
