@@ -1,2 +1,6 @@
-# OS-Simulator
-An OS simulator to simulate the fundementals of an operating system such as scheduling,memory management,process management,semaphores,etc. 
+# operating-system-simulator
+A java simulation of an operating system of a smart oven including the usual operating system functionalities such as:  
+  -Memory Management  
+  -Process Management  
+  -Scheduling  
+  -IO Management using Semaphores
